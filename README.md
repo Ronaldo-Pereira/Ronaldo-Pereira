@@ -1,3 +1,3 @@
 Sou Ronaldo Pereira
-Trabalho na área de infraestrutura de TI
-Estudando desenvolvimento de sistemas
+- Trabalho na área de infraestrutura de TI
+- Estudando desenvolvimento de sistemas
